@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color:black;
+}
+.button{
+    -fx-background-radius:6;
+    -fx-background-color:transparent;
+}
+.slider{
+    -fx-background-color:transparent;
+}
+.label{
+    -fx-Text-fill:black;
+}
